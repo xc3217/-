@@ -1,0 +1,5 @@
+﻿  二叉树.cpp
+C:\Users\xc-matthew\source\repos\二叉树\二叉树\二叉树.cpp(143,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xc-matthew\source\repos\二叉树\二叉树\二叉树.cpp(156,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\xc-matthew\source\repos\二叉树\二叉树\二叉树.cpp(135): warning C4715: “hight”: 不是所有的控件路径都返回值
+  二叉树.vcxproj -> C:\Users\xc-matthew\source\repos\二叉树\x64\Debug\二叉树.exe
